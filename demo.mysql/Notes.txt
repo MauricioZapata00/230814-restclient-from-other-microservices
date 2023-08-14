@@ -1,0 +1,13 @@
+R2DBC connection:
+- https://blog.onesaitplatform.com/en/2022/12/02/r2dbc-reactive-relational-database-connectivity-2/
+
+- https://vikasverma.tech/post/spring-mysql-r2dbc-example/
+
+- https://github.com/vikasontech/spring-reactive/blob/master/src/main/java/org/springreactive/WebFluxDemoController.java
+
+- https://github.com/bezkoder/spring-boot-r2dbc-mysql-example/blob/master/src/main/java/com/bezkoder/spring/r2dbc/mysql/repository/TutorialRepository.java
+
+- https://dev.to/kamalhm/configuring-connection-pooling-with-spring-r2dbc-ho6
+
+- https://codetinkering.com/r2dbc-reactive-database-example-in-spring/
+

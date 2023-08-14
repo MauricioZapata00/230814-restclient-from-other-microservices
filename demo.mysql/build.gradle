@@ -22,7 +22,13 @@ repositories {
 }
 
 dependencies {
-	implementation 'org.springframework.boot:spring-boot-starter-data-r2dbc'
+//	implementation 'org.springframework.boot:spring-boot-starter-data-r2dbc'
+//	// https://mvnrepository.com/artifact/org.springframework.data/spring-data-r2dbc
+//	implementation 'org.springframework.data:spring-data-r2dbc:3.1.2'
+//	// https://mvnrepository.com/artifact/com.mysql/mysql-connector-j
+//	implementation 'com.mysql:mysql-connector-j:8.1.0'
+//	// https://mvnrepository.com/artifact/org.springframework.data/spring-data-commons
+//	implementation 'org.springframework.data:spring-data-commons:3.1.2'
 	implementation 'org.springframework.boot:spring-boot-starter-webflux'
 	compileOnly 'org.projectlombok:lombok'
 	annotationProcessor 'org.projectlombok:lombok'

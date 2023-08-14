@@ -1,0 +1,7 @@
+server:
+  port: 8083
+spring:
+  data:
+    mongodb:
+      database: songs
+      uri: mongodb://LocalDeveloper:f8104adbecc0ec@localhost:27017/songs

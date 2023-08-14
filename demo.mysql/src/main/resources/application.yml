@@ -1,0 +1,9 @@
+#spring:
+#  r2dbc:
+#    name: musimundos
+#    url: r2dbc:mysql://127.0.0.1:3307/musimundos
+#    username: root
+#    password: 'emx2bPxI52jUe133GWlkHoyESLzQ'
+
+server:
+  port: 8082
